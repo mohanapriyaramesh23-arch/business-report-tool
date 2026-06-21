@@ -1,0 +1,16 @@
+Date,Product_Category,Region,Sales_Amount,Units_Sold
+2026-01-01,Electronics,North,1200.50,4
+2026-01-02,Clothing,South,350.00,10
+2026-01-03,Home Goods,East,450.75,3
+2026-01-04,Electronics,West,850.00,2
+2026-01-05,Clothing,North,600.25,15
+2026-01-06,Home Goods,South,120.00,1
+2026-01-07,Electronics,East,2100.00,7
+2026-01-08,Clothing,West,420.50,11
+2026-01-09,Home Goods,North,310.00,2
+2026-01-10,Electronics,South,1750.00,5
+2026-01-11,Clothing,East,95.00,3
+2026-01-12,Home Goods,West,670.40,4
+2026-01-13,Electronics,North,990.00,3
+2026-01-14,Clothing,South,510.00,12
+2026-01-15,Home Goods,East,89.99,1
